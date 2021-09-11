@@ -11,5 +11,3 @@ This is my simple task manager project, you can create several projects, assign 
 
 Now you can serve the project :)
 <pre>php artisan serve</pre>
-
-If you want to contact me please email me to marcovlesmes@gmail.com
